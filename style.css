@@ -1,0 +1,17 @@
+input {
+	width: 300px;
+	border-radius: 5px;
+	margin-bottom: 20px;
+	margin: .4rem;
+}
+.margin {
+	width: 10px;
+}
+textarea {
+	border-color: red;
+	border-width: 2px;
+
+}
+textarea:focus {
+	border-color: green;
+}
